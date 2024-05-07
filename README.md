@@ -1,13 +1,10 @@
-[![MasterHead]("https://wallpapercave.com/wp/wp6412485.jpg")]
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=siuu!+✌️;+I'm+Jeeva!;" />
-</h1><br>
-
-(img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif")
+</h1><b
 # 💫 About Me:
 📚 I am currently pushing B.Tech Artificial Inelligence in<br>KPRIET<br>🧠Learning Fullstack Development with spotknack<br>📈 I am Hungry to Learn<br>🏋🏼‍♀️💪🏼Fun about me: I like to do workouts and play Football⚽<br>and draw
 
-(img align="right" alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif")
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ig_jeeva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevanantham-s-183051253) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/.) 
